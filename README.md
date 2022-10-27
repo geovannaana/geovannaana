@@ -1,0 +1,3 @@
+- 👋 Oi,eu sou @geovannaana;
+- 🌱 Estou cursando o novo ensino médio;
+- 💞️ estamos aprendendo sobre programação.
